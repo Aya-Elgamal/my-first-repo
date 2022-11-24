@@ -1,6 +1,4 @@
 # my-first-repo
-# my-first-repo
-# my-first-repo
-# my-first-repo
-# my-first-repo
-# my-first-repo
+## learn quick. 
+be smart 
+motivate yourself
